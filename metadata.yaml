@@ -1,0 +1,31 @@
+_repo: Shakespeare-as-a-Dramatic-ArtistA-Popular-Illustration-of-the-Principles-of-Scientific-Critic__43435
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43435-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Moulton, Richard G. (Richard Green)
+    alias: Moulton, R. G. (Richard Green)
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '8749'
+    url: http://www.gutenberg.org/2009/agents/8749
+description: ''
+gutenberg_issued: '2013-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43435'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Drama -- Technique'
+- !lcsh 'Rhetoric -- 1500-1800'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Technique'
+title: 'Shakespeare as a Dramatic Artist
+
+  A Popular Illustration of the Principles of Scientific Criticism'
+url: http://www.gutenberg.org/ebooks/43435
